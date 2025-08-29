@@ -11,7 +11,7 @@ export default function App() {
     <>
       {/* Navbar */}
       <nav className="bg-purple-700 text-white px-6 py-4 flex justify-between">
-        <h1 className="font-bold text-xl">1Step</h1>
+        <h1 className="font-bold text-xl">EveNexus</h1>
         <div className="flex gap-4">
           <Link to="/">Home</Link>
           <Link to="/about">About</Link>
